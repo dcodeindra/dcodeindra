@@ -1,4 +1,10 @@
-<h1 align="center">👋 Halo, Saya [Nama Kamu]</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/IndraWebDev/media/main/wave.gif" width="40px"/>
+  Halo, Saya Indra Permana Putra
+</h1>
+<p align="center">🛡️ Cyber Analyst | 🛠️ Backend Developer | 🧠 Prompt Engineer</p>
+
+---
 <p align="center">🛡️ Cyber Analyst | 🛠️ Backend Developer | 🧠 Prompt Engineer</p>
 
 ---
