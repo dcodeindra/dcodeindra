@@ -1,56 +1,68 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/IndraWebDev/media/main/wave.gif" width="40px"/>
-  Halo, Saya Indra Permana Putra
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>
+  Halo, Saya <strong>Indra Permana Putra</strong>
 </h1>
-<p align="center">🛡️ Cyber Analyst | 🛠️ Backend Developer | 🧠 Prompt Engineer</p>
 
----
-<p align="center">🛡️ Cyber Analyst | 🛠️ Backend Developer | 🧠 Prompt Engineer</p>
+<p align="center">
+  🛡️ Cyber Analyst &nbsp;|&nbsp; 🛠️ Backend Developer &nbsp;|&nbsp; 🤖 Prompt Engineer
+</p>
 
----
-
-<img src="https://skillicons.dev/icons?i=linux,nodejs,python,mongodb,bash,git,docker" alt="Tech Stack" align="center" />
-
-## 🔍 Tentang Saya
-
-Saya adalah seseorang yang aktif di dunia **cybersecurity**, membangun sistem backend yang kuat, dan juga menjelajahi kemampuan AI melalui prompt engineering.
-
-Saya percaya bahwa teknologi bukan hanya alat, tapi juga senjata untuk memahami dan mengamankan dunia digital.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dcodeindra&label=Profile+Views&color=0e75b6&style=flat" alt="dcodeindra" />
+</p>
 
 ---
 
-## ⚙️ Keahlian Utama
+### ✨ Tentang Saya
 
-- 🛡️ **Cyber Analyst**  
-  Fokus di OSINT, investigasi digital, dan analisa ancaman. Saya sering menggunakan tools seperti Shodan, LeakCheck, dan custom bot Telegram.
+> “Teknologi bukan sekadar alat, tapi senjata untuk memahami dan mengamankan dunia digital.”
 
-- 🧩 **Backend Developer**  
-  Membangun API, sistem otomatisasi, dan arsitektur server dengan performa tinggi. Menggunakan Node.js, MongoDB, dan FastAPI.
-
-- 🤖 **Prompt Engineer**  
-  Mendesain prompt AI untuk membantu pekerjaan riset, penulisan, dan analisa. Eksperimen dengan GPT dan Gemini untuk efisiensi kerja.
+🔍 Saya aktif di bidang **cybersecurity**, **backend development**, dan juga **AI prompt engineering**.  
+💻 Fokus saya adalah membangun sistem otomatisasi, bot investigasi, dan eksplorasi AI untuk produktivitas.
 
 ---
 
-## 🧰 Tools & Stack
+### 🧠 Keahlian Saya
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,bash,nginx,linux,vscode,github,postman" alt="Tools I Use" />
-
----
-
-## 📌 Fokus Saat Ini
-
-- 🔧 Membangun bot Telegram OSINT yang terhubung ke berbagai API
-- 📊 Mengolah data digital menggunakan AI dan visualisasi data
-- 🤝 Kolaborasi open-source untuk sistem monitoring & investigasi
+| Role               | Penjelasan Singkat                                                                 |
+|--------------------|-------------------------------------------------------------------------------------|
+| 🛡️ Cyber Analyst   | Fokus di OSINT, investigasi digital, threat intel, dan hunting kebocoran data.     |
+| 🧩 Backend Dev     | Bangun API, service berbasis Node.js, MongoDB, dan FastAPI.                         |
+| 🤖 Prompt Engineer | Ngetweak prompt AI buat riset, scraping, dan otomasi info digital.                  |
 
 ---
 
-## 📫 Kontak
+### 🔧 Stack & Tools
 
-- Telegram: [@dcodeindraa](https://t.me/dcodeindra)
-- GitHub: [github.com/dcodeindra](https://github.com/dcodeindra)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,bash,nginx,linux,docker,git,vscode,postman" />
+</p>
 
 ---
 
-> _"Data itu tidak pernah bohong, kalau kamu tahu cara membacanya."_
+### 🧪 Proyek Aktif
+
+- 🤖 Bot Telegram OSINT & investigasi digital
+- 🔎 Tool pencarian leaks berbasis API
+- 🧠 Integrasi AI untuk bantu analisa & kerja cepet
+
+---
+
+### 🚀 Fun Fact
+
+- Aku lebih suka tools yang *jalan sendiri*, bukan yang banyak gaya.
+- Motto hidup: `Kalau bisa otomatis, kenapa manual?`
+- Sering nyolong waktu buat eksperimen prompt & hacking legal 😎
+
+---
+
+### 📫 Hubungi Saya
+
+<p align="center">
+  <a href="https://t.me/dcodeindra"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/dcodeindra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>"Data itu tidak pernah bohong, kalau kamu tahu cara membacanya."</i></p>
