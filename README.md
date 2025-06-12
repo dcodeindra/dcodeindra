@@ -42,8 +42,8 @@ Saya percaya bahwa teknologi bukan hanya alat, tapi juga senjata untuk memahami 
 
 ## 📫 Kontak
 
-- Telegram: [@yourhandle](https://t.me/dcodeindra)
-- GitHub: [github.com/yourusername](https://github.com/dcodeindra)
+- Telegram: [@dcodeindraa](https://t.me/dcodeindra)
+- GitHub: [github.com/dcodeindra](https://github.com/dcodeindra)
 
 ---
 
